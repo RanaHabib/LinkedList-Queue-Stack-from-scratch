@@ -1,2 +1,2 @@
-# LinkedList-from-scratch
-LinkedList from scratch
+# LinkedList-Queue-Stack-from-scratch
+LinkedList Queue Stack from scratch
